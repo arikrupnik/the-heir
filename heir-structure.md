@@ -22,7 +22,7 @@ And if he keeps it, will it crush him?
 
 Plot Point
 ----------
-Storage yard MANGER announces pending closure and demolition of the yard.
+Storage yard manger MANNY announces pending closure and demolition of the yard.
 Tenants have thirty days to vacate.
 Tom must decide what he does with his inheritance.
 
@@ -59,10 +59,17 @@ When Tom discovers the mess in the morning, he has to face the more serious skel
 
 Act III: Resolution
 -------
+Tom now has the strength and the allies to deal with the harder stuff.
+He gets a dumpster for the things he wants to discard, a scanning service to digitize photos, a box that's going to Goodwill, etc.
+The objects Tom wants to keep he packs into the Suitcase.
+He finds some artifacts that belong, in his opinion, to Drake and calls him to pick up his stuff.
+In the second confrontation with Drake, Tom is on his turf.
+He and Drake are never going to be friends, and in fact may never speak again, but the torment is over.
+Tom has sorted through his inheritance and owns his life free and clear.
 
 Close
 -----
-Tom surveys the empty storage unit with satisfaction, rolls down the door, gets in the car (Claire is waiting in the passenger seat) and drives away with the few heirlooms he decided to keep visible through the tailgate.
+Tom surveys the empty storage unit with satisfaction, rolls down the door, gets in the car (Claire is waiting in the passenger seat) and drives away with the few heirlooms he decided to keep packed into the suitcase, which is visible through the tailgate.
 
 
 Characters
@@ -70,17 +77,45 @@ Characters
 **Tom**, 28: Lonely, isolated, listless, the weight of the world on his shoulders.
 
 **Claire**, 25: Girl-next-door, literally--has the storage unit next to Tom's.
-Artist.
 Tom's eventual love interest.
-Has her life together.
-One of the few tenants with legitimate use for a unit: stores larger, complete art pieces.
 Tom's foil: he can describe to her the significance of objects he finds.
+Claire is using her unit to store possessions following a breakup.
+She, too, has stuff to sort through, but less than Tom.
 
 **Drake**, 29: Tom's step-brother.
 High school football star, ladies' man and all-American pride and joy of his parents.
 Golden child and Tom's nemesis throughout their childhood.
 Drake may be absent physically in act I, but Tom's recollections and complaints introduce him from the start.
+Drake peaked at 19 as a college football rookie and is unwilling to accept this disappointment.
+Nothing happened in his life in the decade since, and is unlikely to happen ever again.
+Drake represents the path of accepting only happy facts and ignoring the disappointing.
+
+Alternatively, **Drake**, 59, Tom's step-father.
+Peaked as a college quarterback who never went pro.
+
+**Manny**, 31: Storage yard manager.
+Manny manages the yard for the absentee landlord and lives in a little room behind the office.
+He seems to be everywhere at the yard and simultaneously absent most of the time, like a ghost.
+On the side, Manny is growing weed in units whose tenants have abandoned them; he siphons power off the grid for his hydroponics.
+Manny represents the path of indefinite deferral in decisions about baggage.
+He is so at home in the purgatory that he has a role in maintaining it.
+
+**Other Tenants**: Each has a different way of dealing with his or her baggage.
+In little vignettes, they demonstrate that Tom has many options, most of them unhappy.
 
 **Suitcase**: The suitcase holds the hardest artifacts for Tom to deal with.
 Tom avoids opening the suitcase until act III, and then with great apprehension.
 The suitcase is visible in every shot of the unit's interior, as a reminder of the tough issues Tom is avoiding.
+
+
+Motifs
+======
+
+Characters' confusion over their identities
+-------------------------------------------
+
+Few of the characters know who they are, who they can be, or even who they want to be.
+Many of the characters hold on to bizarre bits of family trivia as the source of their worth and identity.
+One boasts a great-grandmother who had a brief affair with the heir of General Lee.
+Another has an uncle who was the initial investor in Yahoo.
+Though none can show evidence or benefit of these claims, they repeat them as a refrain.
