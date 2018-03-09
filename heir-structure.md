@@ -31,8 +31,9 @@ Act IIa: Fun and Games
 The stuff in the unit is not all bad.
 Tom discovers some of his old toys.
 He discovers his parents' toys, old cameras, vinyl records--it's a hipster's paradise.
-Tom befriends Claire and some of the other tenants, they play old video games together and model old-fashioned clothes for each other.
-There are awards and citations, certificates of achievement, that paint Tom's family in a new light.
+Other tenants want to be Tom's friends.
+Tom's friendship with Claire grows, they play old video games together and model old-fashioned clothes for each other.
+Tom finds awards and citations, certificates of achievement, that paint Tom's family in a new light.
 Tom finds role models, sources of pride and identity in these artifacts.
 
 Midpoint
