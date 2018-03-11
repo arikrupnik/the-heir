@@ -8,21 +8,20 @@ STRUCTURE
 
 Open
 ----
-TOM opens the roll-up door to his father's old storage unit and surveys his inheritance with disdain.
+TOM, 28, opens the roll-up door to his father's old storage unit and surveys his inheritance with disdain. His gaze focuses on a particular SUITCASE.
 
 Act I: Pose the Question
 -----
-Tom hates cleaning up the messes that his family refuses to deal with.
-Tom explains to CLAIRE, his next-door neighbor, that his family has been been kicking the can down the road for generations.
-His storage unit contains the parts of family history that they never dealt with.
-Now it falls to Tom to piece together his identity.
-Tom complains specifically about his step-brother DRAKE, whose identity is shallow but secure.
+For three generations, Tom's family stuffed anything they didn't want to deal with into the unit.
+Now it falls to Tom to clean up the mess and piece together his identity.
+Storage yard manger MANNY, 31, introduces Tom to his next-unit neighbor CLAIRE, 25, and other tenants.
+Tom complains about his step-brother DRAKE, whose identity is shallow but secure.
 Tom asks the central question: if he throws away his (family's) baggage, who is he?
 And if he keeps it, will it crush him?
 
 Plot Point
 ----------
-Storage yard manger MANNY announces pending closure and demolition of the yard.
+Manny announces pending closure and demolition of the yard.
 Tenants have thirty days to vacate.
 Tom must decide what he does with his inheritance.
 
@@ -49,13 +48,13 @@ For comic relief, an anatomical skeleton spills out when Tom opens a cabinet in 
 Importantly, Tom is no longer dealing with his crisis alone.
 Claire is there to support him.
 Claire helps Tom see that the happy and the unhappy memories are his equally.
-Tom finds that he can draw strength and wisdom from unseemly episodes in family history.
+Tom finds that he can draw wisdom from unseemly episodes in family history.
 They, too, are part of what makes him him, and he can learn from failure as much as from success.
 
 Plot Point
 ----------
 Tom and Claire cuddle aggressively in her unit (we see this from Tom's unit).
-As the shared wall thud-thuds, the suitcase falls from its shelf, spilling its contents.
+As the shared wall thud-thuds, the Suitcase falls from its shelf, spilling its contents.
 When Tom discovers the mess in the morning, he has to face the more serious skeletons in his storage unit.
 
 Act III: Resolution
@@ -70,7 +69,7 @@ Tom has sorted through his inheritance and owns his life free and clear.
 
 Close
 -----
-Tom surveys the empty storage unit with satisfaction, rolls down the door, gets in the car (Claire is waiting in the passenger seat) and drives away with the few heirlooms he decided to keep packed into the suitcase, which is visible through the tailgate.
+Tom surveys the empty storage unit with satisfaction, rolls down the door, gets in the car (Claire is waiting in the passenger seat) and drives away with the few heirlooms he decided to keep packed into the Suitcase, which is visible through the tailgate.
 
 
 Characters
@@ -106,7 +105,7 @@ In little vignettes, they demonstrate that Tom has many options, most of them un
 
 **Suitcase**: The suitcase holds the hardest artifacts for Tom to deal with.
 Tom avoids opening the suitcase until act III, and then with great apprehension.
-The suitcase is visible in every shot of the unit's interior, as a reminder of the tough issues Tom is avoiding.
+The suitcase is visible in every shot of the unit's interior, as a reminder of the issues Tom is avoiding.
 
 
 Motifs
