@@ -1,0 +1,15 @@
+Place,Title,Name,Type,Latitude,Longitude,Code,Enclosed_by,Date
+
+Person,Surname,Given,Call,Suffix,Prefix,Title,Gender,Birth date,Birth place,Birth source,Baptism date,Baptism place,Baptism source,Death date,Death place,Death source,Burial date,Burial place,Burial source,Note
+[I0001],Blank,James,,,,,male,1970,,,,,,2018,,,,,,
+[I0002],Blank,Moira,,,,,female,1970,,,,,,2018,,,,,,
+[I0000],Blank,Tom,,,,,male,1990,,,,,,,,,,,,
+[I0003],Carter,Drake,,,,,male,1960,,,,,,,,,,,,
+
+Marriage,Husband,Wife,Date,Place,Source,Note
+[F0000],[I0001],[I0002],1989,,,
+[F0001],[I0003],[I0002],1995,,,
+
+Family,Child
+[F0000],[I0000]
+
