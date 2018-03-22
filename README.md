@@ -3,9 +3,9 @@
 ## Inheriting a storage unit full of family heirlooms forces an estranged son to confront his place in the family.
 
 *The Heir* is an independent feature film in active development in 2018.
-In addition to what we hope is a compelling story, the project is an experiment in applying agile methodologies to film.
+In addition to what we hope is a compelling story, the project is an experiment in applying collaborative, agile methodologies to film.
 
-TL;DR:  [Skip the methodology, read the story](https://github.com/arikrupnik/the-heir/releases/download/v0.1.0/heir-structure.pdf).
+## TL;DR:  [Skip the methodology, read the story](https://github.com/arikrupnik/the-heir/releases/download/v0.1.0/heir-structure.pdf).
 
 Agile is a common approach in software development but may be new to some filmmakers.
 The big ideas in Agile are around individuals, collaboration and espousing change.
