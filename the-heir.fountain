@@ -3,12 +3,13 @@ Logline: Inheriting a storage unit full of family heirlooms forces an estranged 
 
 # Open
 = TOM, 28, opens the roll-up door to his father's old storage unit and surveys his inheritance with disdain. His gaze focuses on a particular SUITCASE.
+=<scenes/open.fountain
 
 # Act I: Pose the Question
 = For three generations, Tom's family stuffed anything they didn't want to deal with into the unit.
 = Now it falls to Tom to clean up the mess and piece together his identity.
 = First thing Tom finds is his old toys. He gives them to another tenant's child.
-[[@cat.fountain]]
+=<scenes/cat.fountain
 = Tom's next unit neighbor CLAIRE, 25, finds the gesture adorable.
 = Storage yard manger MANNY, 31, introduces Tom to Claire and other tenants.
 = Tom complains about his step-brother DRAKE, whose identity is shallow but secure.

@@ -1,4 +1,6 @@
 *.pdf
 *.ftx
+*.d
+*.plot-summary
 *.html
 making-of-video
