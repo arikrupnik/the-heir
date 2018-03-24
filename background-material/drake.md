@@ -1,11 +1,9 @@
-**Drake**, 29: Tom's step-brother.
-High school football star, ladies' man and all-American pride and joy of his parents.
-Golden child and Tom's nemesis throughout their childhood.
-Drake may be absent physically in act I, but Tom's recollections and complaints introduce him from the start.
-Drake peaked at 19 as a college football rookie and is unwilling to accept this disappointment.
-Nothing happened in his life in the decade since, and is unlikely to happen ever again.
-Drake represents the path of accepting only happy facts and ignoring the disappointing.
-
-Alternatively, **Drake**, 59, Tom's step-father.
+**Drake** the antagonist, 59: Tom's step-father.
+Drake may be absent physically in act I, but Tom's recollections introduce him from the start.
+Has severe boundary issues.
 Peaked as a college quarterback who never went pro.
+Nothing happened in his life since, and is unlikely to happen ever again.
+Drake is willing to accept only happy baggage and ignores the disappointments.
+To fill his entire life with the little happy baggage he has, Drake exaggerates it.
+One of his worries is that Tom might find evidence of this exaggeration in his storage unit.
 
