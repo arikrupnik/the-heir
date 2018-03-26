@@ -1,0 +1,2 @@
+# aspell(1) chokes on dictionary files with Windows line endings
+aspell.*.pws text eol=lf
