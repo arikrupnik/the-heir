@@ -1,18 +1,28 @@
 Title: The Heir
 Logline: Inheriting a storage unit full of family heirlooms forces an estranged son to confront his place in the family.
+Project Home: https://github.com/arikrupnik/the-heir
 
 # Open
-= TOM, 28, opens the roll-up door to his father's old storage unit and surveys his inheritance with disdain. His gaze focuses on a particular SUITCASE.
+= TOM BLANK, 28, opens the roll-up door to his father's old storage unit and surveys his inheritance with disdain.
 =<scenes/open.fountain
 
 # Act I: Pose the Question
+= First thing Tom finds is one of his old toys. He gives it away to another tenant's child.
+=<scenes/cat.fountain
+= Tom's next-unit neighbor CLAIRE, 25, sees the exchange and finds Tom's gesture adorable.
+= Tom and Claire develop a friendly conversation.
+= Claire is storing some of her possessions following a breakup.
+= Tom is here to sort through whatever issues his family stuffed into his unit.
+= Storage yard manager MANNY, 31, barges in on their moment, insisting that _he_ introduce Tom to Claire and other tenants.
+
+##
+= Tom's step-father DRAKE, 59, arrives to collect what he claims is his property from the unit.
+= As with Manny, Tom finds it hard to set boundaries with Drake.
+= Worse, he doesn't know what's his--he hardly knows who _he_ is.
+
+##
 = For three generations, Tom's family stuffed anything they didn't want to deal with into the unit.
 = Now it falls to Tom to clean up the mess and piece together his identity.
-= First thing Tom finds is his old toys. He gives them to another tenant's child.
-=<scenes/cat.fountain
-= Tom's next unit neighbor CLAIRE, 25, finds the gesture adorable.
-= Storage yard manger MANNY, 31, introduces Tom to Claire and other tenants.
-= Tom complains about his step-father DRAKE, 59, whose identity is shallow but secure.
 = Tom asks the central question: if he throws away his (family's) baggage, who will he be?
 = And if he keeps it, will it crush him?
 
@@ -22,40 +32,71 @@ Logline: Inheriting a storage unit full of family heirlooms forces an estranged 
 = Tom must decide what he does with his inheritance.
 
 # Act IIa: Fun and Games
-= The stuff in the unit is not all bad.
-= He finds his parents' toys, old cameras, vinyl records--it's a hipster's paradise.
+= Some of the stuff in the unit is pure garbage, like an old BBQ grill.
+= But it's not all bad.
+= Tom finds his parents' toys, old cameras, vinyl records--it's a hipster's paradise.
 = Other tenants want to be Tom's friends.
 = Tom's friendship with Claire grows, they play old video games together and model old-fashioned clothes for each other.
-= Tom finds awards and citations, certificates of achievement, that paint Tom's family in a new light.
+= Tom finds awards and citations, certificates of achievement.
 = Tom finds role models, sources of pride and identity in these artifacts.
+= Tom finds it difficult to keep track of all the different family members.
+= He starts plotting his family tree using magnets on the metal wall of his storage unit.
+= All those cousins and aunts he'd heard of but could never remember suddenly fall into a sensible family structure.
+/* more Claire */
 
 # Midpoint
-= Drake arrives and helps himself to the best of Tom's finds.
-= The confrontation drives home the reality of Tom's challenges, including his inability to set boundaries.
+= Tom and Claire cuddle aggressively in her unit (we see this from Tom's unit).
+= As the shared wall thud-thuds, an anatomical skeleton spills out of a cabinet in Tom's unit.
 
 # Act IIb: Stuff Gets Real
 = Tom keeps digging through the storage unit.
 = He finds arrest records, ER admission records, divorce papers.
-= For comic relief, an anatomical skeleton spills out when Tom opens a cabinet in his unit.
 = Importantly, Tom is no longer dealing with his crisis alone.
 = Claire is there to support him.
 = Claire helps Tom see that the happy and the unhappy memories are his equally.
 = Tom finds that he can draw wisdom from unseemly episodes in family history.
 = They, too, are part of what makes him him, and he can learn from failure as much as from success.
+= Tom now has the strength and the allies to deal with the harder stuff.
+= Tom sets aside a box for objects he wants to keep.
+= He gets a dumpster for the things he wants to discard, a scanning service to digitize photos, a box that's going to Goodwill, etc.
+= Now that Tom has real history, he can discard--or give away--his fake keepsakes.
+= Some of the objects belong to other family members.
+= Now that he understands his family tree, Tom can reach out to his relatives to reunite them with their possessions.
+= Tom invites everyone to come "over the long weekend."
 
 # Plot Point
-= Tom and Claire cuddle aggressively in her unit (we see this from Tom's unit).
-= As the shared wall thud-thuds, the Suitcase falls from its shelf, spilling its contents.
-= When Tom discovers the mess in the morning, he has to face the more serious skeletons in his storage unit.
+= Tom has sorted the content of his unit into separate bins.
+= He is ready to disburse, dispose and disengage.
+/* disband discard disambiguate discount discover discuss disinfect dismantle dispense disperse distill distribute */
 
 # Act III: Resolution
-= Tom now has the strength and the allies to deal with the harder stuff.
-= He gets a dumpster for the things he wants to discard, a scanning service to digitize photos, a box that's going to Goodwill, etc.
-= The objects Tom wants to keep he packs into the Suitcase.
-= He finds some artifacts that belong, in his opinion, to Drake and calls him to pick up his stuff.
-= In the second confrontation with Drake, Tom is on his turf.
-= He and Drake are never going to be friends, and in fact may never speak again, but the torment is over.
+
+= Tom's relatives show up to pick up their stuff.
+= Tom has cleaned the grill from his unit and is treating his guests to BBQ.
+= The visit turns into a family reunion.
+= By virtue of bringing the family together, and by handing out people's inheritance, Tom assumes a central role.
+= There are old people and young couples and kids running around.
+= There are flags and streamers.
+= Without planning it, Tom has created for himself the family he always wanted.
+= Some of these people are nicer than others, but they are all his people.
+
+##
+= Drake shows up to pick up his share.
+= In his second confrontation with Drake, Tom is on his turf, surrounded by people who respect him.
+= Tom knows who he is and what his boundaries are.
 = Tom has sorted through his inheritance and owns his life free and clear.
 
+##
+= Tom and Claire are the king and queen of their clan.
+= A pregnant couple asks if they would be godparents to their baby.
+/* the other tenants are there, too */
+/* Tom leaves grill to Manny */
+= Tom and Claire reflect on how Tom's baggage didn't crush him at all.
+= Instead, working through it brought Tom the experience that he wanted.
+= As night falls, fireworks go off everywhere.
+= It's Fourth of July, and the Blank family has much to celebrate.
+
+
 # Close
-= Tom surveys the empty storage unit with satisfaction, rolls down the door, gets in the car (Claire is waiting in the passenger seat) and drives away with the few heirlooms he decided to keep packed into the Suitcase, which is visible through the tailgate.
+= The following morning, Tom surveys his empty storage unit with satisfaction, rolls down the door, gets in the car (Claire is waiting in the passenger seat) and drives away with the few heirlooms he decided to keep visible through the tailgate.
+
