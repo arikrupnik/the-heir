@@ -1,5 +1,4 @@
 **Drake** the antagonist, 59: Tom's step-father.
-Drake may be absent physically in act I, but Tom's recollections introduce him from the start.
 Has severe boundary issues.
 Peaked as a college quarterback who never went pro.
 Nothing happened in his life since, and is unlikely to happen ever again.
