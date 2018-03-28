@@ -5,7 +5,7 @@
 *The Heir* is an independent feature film in active development in 2018.
 In addition to what we hope is a compelling story, the project is an experiment in applying collaborative, agile methodologies to film.
 
-## TL;DR:  [Skip the methodology, read the story](https://github.com/arikrupnik/the-heir/releases/download/v0.1.0/heir-structure.pdf).
+## TL;DR:  [Skip the methodology, read the story](https://github.com/arikrupnik/the-heir/releases/download/v0.2.0/the-heir_treatment.pdf).
 
 Agile is a common approach in software development but may be new to some filmmakers.
 The big ideas in Agile are around individuals, collaboration and espousing change.
@@ -42,6 +42,6 @@ The sooner we know what our audience thinks of our work, the closer we can come 
 *The Heir* is a compact production we're using to validate this process.
 The story is set in one location and relies on dialog and character development.
 Target running time is 90 minutes.
-We invite you to review [the treatment](https://github.com/arikrupnik/the-heir/releases/download/v0.1.0/heir-structure.pdf) and follow [the screenplay source](the-heir.fountain) as we develop it.
+We invite you to review [the treatment](https://github.com/arikrupnik/the-heir/releases/download/v0.2.0/the-heir_treatment.pdf) and follow [the screenplay source](the-heir.fountain) as we develop it.
 
 We invite your feedback on both the story and the process!
