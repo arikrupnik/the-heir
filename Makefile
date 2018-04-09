@@ -7,7 +7,7 @@ include $(FOUNTAINHEADDIR)/fountainhead.mk
 VPATH = background-material
 
 CHARACTER_STUDIES = tom.md claire.md drake.md manny.md \
-	penny.md ben.md anna.md dwight.md harry.md
+	ben.md anna.md dwight.md harry.md
 
 character-studies.md: $(CHARACTER_STUDIES)
 	cat $+ | $(ASPELL) list -p $(DICT_FILE) | $(GREP) -nwFf - --color=auto $+; \
