@@ -18,23 +18,23 @@ If you've not worked with Git before, we recommend using Cygwin as your environm
 In our experience, it is much easier to install the necessary utilities in Cygwin than alternatives.
 
 1. Download and install <https://www.cygwin.com/>. During installation, select the following optional packages:
-  * git
-  * make
-  * aspell
-  * aspell-en
-  * python2
-  * python2-pip
-  * libxml2
-  * libxslt
-  * libgtk2.0-devel
-  * wget
-  * zip
+   * git
+   * make
+   * aspell
+   * aspell-en
+   * python2
+   * python2-pip
+   * libxml2
+   * libxslt
+   * libgtk2.0-devel
+   * wget
+   * zip
 2. In the new Cygwin shell, run the following commands:
-  * `git clone https://github.com/arikrupnik/the-heir.git`
-  * `git submodule init`
-  * `git submodule update`
-  * `pip2 install markdown`
-  * `pip2 install weasyprint`
-  * `wget https://github.com/jgm/pandoc/releases/download/2.1.3/pandoc-2.1.3-windows.zip`
-  * `unzip -j -d /bin pandoc-2.1.3-windows.zip pandoc-2.1.3/pandoc.exe`
+   * `git clone https://github.com/arikrupnik/the-heir.git`
+   * `git submodule init`
+   * `git submodule update`
+   * `pip2 install markdown`
+   * `pip2 install weasyprint`
+   * `wget https://github.com/jgm/pandoc/releases/download/2.1.3/pandoc-2.1.3-windows.zip`
+   * `unzip -j -d /bin pandoc-2.1.3-windows.zip pandoc-2.1.3/pandoc.exe`
 3. If everything succeeded, you now have the source files and all the necessary software on your local drive.
