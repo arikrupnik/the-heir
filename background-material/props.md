@@ -2,8 +2,11 @@
 **Pocket Knife** with the initials B.R.  
 **Flask** with the initials C.J.F.
 
-# Picture Frames 
+# Picture Frames
+
+##frame-taylor-clerc
 Taylor Clerc-Father-Dec 4, 1999  
+
 Amanda & Jessica-Friends-  
 Mercedes & John-40 Years-Feb 8, 1998  
 Adrea Elizabeth-Christening-Oct 11, 1998  
