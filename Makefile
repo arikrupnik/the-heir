@@ -6,7 +6,7 @@ include $(FOUNTAINHEADDIR)/fountainhead.mk
 
 VPATH = background-material
 
-CHARACTER_STUDIES = tom.md claire.md drake.md manny.md \
+CHARACTER_STUDIES = howard.md penny.md frank.md manny.md \
 	ben.md anna.md dwight.md harry.md
 
 character-studies.md: $(CHARACTER_STUDIES)
