@@ -1,6 +1,9 @@
 # Props
 **Pocket Knife** with the initials B.R.  
-**Flask** with the initials C.J.F.
+**Flask** with the initials [C.J.F.](https://github.com/arikrupnik/the-heir/blob/master/making-of/2018-04-10.crowley.props/DSC01795.JPG)  
+**Flask** [Dall...from Shelbye](https://github.com/arikrupnik/the-heir/blob/master/making-of/2018-04-10.crowley.props/DSC01794.JPG)  
+**Name Plate**
+[Frank R. Kossati](https://github.com/arikrupnik/the-heir/blob/master/making-of/2018-04-10.crowley.props/DSC01838.JPG)
 
 # Picture Frames
 
