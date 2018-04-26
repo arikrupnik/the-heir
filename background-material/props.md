@@ -8,7 +8,7 @@
 # Picture Frames
 
 ## frame-taylor
-Taylor Clerc-Father-Dec 4, 1999  
+[Taylor Clerc-Father-Dec 4, 1999](https://github.com/arikrupnik/the-heir/blob/master/making-of/props/20180404_151910.jpg?raw=true)  
 ## frame-amanda
 [Amanda & Jessica-Friends-](https://github.com/arikrupnik/the-heir/blob/DaltonElza-frames-and-unit/making-of/2018-04-23.frames/4x6_amanda_and_jessica.jpg) [2nd pic](https://github.com/arikrupnik/the-heir/blob/DaltonElza-frames-and-unit/making-of/2018-04-23.frames/4x6_amanda_and_jessica2.jpg) 4x6
 ## frame-mercedes
