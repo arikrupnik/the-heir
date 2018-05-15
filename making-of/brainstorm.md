@@ -1,5 +1,21 @@
 # The Heir Brainstorm
 
+## 2018-05-11 Victoria + Ari
+
+Penny's big problem is guilt.
+Starting with her hypochondriac mother and ending with the polar ice caps, everyone's problems are more important than Penny's.
+Penny never wants to resolve conflicts of interest.
+If she has no interests, they can never conflict with anyone else's.
+
+The piano belongs to her mother, who fantasizes about the glory days of *her* mother's fancy parties.
+In the meantime, she neglects to pay rent on the storage unit, and it's Penny's job to put things right with Manny.
+At regular intervals, Penny must rescue the piano from repossession.
+Rescuing the piano and trying to move it for her mother is what brings Penny to the storage yard in the first place.
+
+Penny's arc is to acknowledge the conflict--and eventually to resolve it.
+Penny has a choice about whose problems are more important.
+The visible manifestation of this growth is her decision to stop rescuing the piano.
+
 ## 2018-05-08 Joel + Ari
 
 Some of the objects Howard may find that evoke his conflict with the family, and force him to reevaluate what he knows:
