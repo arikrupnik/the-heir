@@ -1,5 +1,23 @@
 # The Heir Brainstorm
 
+## 2018-05-23 Everyone
+
+Casting Howard remains a priority.
+We are meeting with two out-of-town actors next week.
+Thank you Patrick and Cordelia for recommending additional candidates--I'm looking forward to speaking with them.
+
+We are going to visit the filming location on Monday.
+We're meeting at 1908 FM 1187 in Crowley, TX 76036 at 10 am.
+
+As part of our marketing effort, we're recording interviews with cast members where they describe our process and their experience with it.
+The goal is to put up a series of short YouTube videos that can explain what we do--and garner interest in the project.
+
+We discussed the possibility of changing the story if we cannot cast Howard.
+One idea is to make the film more of an ensemble piece, focusing on how different characters deal with their hoards.
+The hoarding aspects resonates with many of the people who read the treatment.
+For some characters, this means expanding their roles.
+For others--like Frank and Penny--it means refocusing them entirely.
+
 ## 2018-05-11 Victoria + Ari
 
 Penny's big problem is guilt.
