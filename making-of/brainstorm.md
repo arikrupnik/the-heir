@@ -1,5 +1,35 @@
 # The Heir Brainstorm
 
+
+## 2018-06-13 Everyone
+
+Cast additions: Rane Jameson is Howard the Heir.
+Christopher Hagen is Manny the Manager.
+Patrick Heraghty is Frank the step-Father.
+
+What happens to Howard and Penny after the movie ends?
+In a way this "forward-story" is as important as the backstory that we construct for characters.
+
+Action items:
+
+* Victoria and Rane are each writing a couple of paragraphs about where the characters want to be two years after the movie.
+
+## 2018-06-10 Everyone in Dallas
+
+We watched *Once Upon A Time In America* together.
+A couple of things stood out:
+
+* How much of the story is happening in music in pantomime: there are entire 5-minute sequences that drive the story forward without any dialogue at all.
+* The ambiguity over whose story it is: De Niro gets top billing, but it may well be the story of James Woods' Max as told through the eyes of De Niro's Noodles.
+
+## 2018-06-10 Everyone in Dallas
+
+We watched *Once Upon A Time In America* together.
+A couple of things stood out:
+
+* How much of the story is happening in music in pantomime: there are entire 5-minute sequences that drive the story forward without any dialogue at all.
+* The ambiguity over whose story it is: De Niro gets top billing, but it may well be the story of James Woods' Max as told through the eyes of De Niro's Noodles.
+
 ## 2018-05-23 Everyone
 
 Casting Howard remains a priority.
