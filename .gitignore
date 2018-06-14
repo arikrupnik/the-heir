@@ -2,6 +2,8 @@
 *.ftx
 *.d
 *.plot-summary
+*.header
+*.head
 *.html
 the-heir_treatment.md*
 character-studies.md*
