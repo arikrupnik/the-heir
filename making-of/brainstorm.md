@@ -1,5 +1,53 @@
 # The Heir Brainstorm
 
+## 2018-06-17 Ari + Rane
+
+Refinement for Howard & Penny storyline:
+
+* Initial attraction: Howard plays victim, Penny plays rescuer.
+* By midpoint, Howard has stepped out of the drama triangle, and the relationship threatens to fall apart.
+* Howard comes up with a different basis for the relationship, one that allows them to be equals.
+* Howard teaches Penny how to ride a motorcycle, using his father's bike from the unit.
+* Howard and Penny ride off into the sunset on a pair of adventure bikes.
+  
+Howard's backstory with Frank:
+
+* Frank had (has?) alcohol issues.
+* Frank used to dominate when sober; the roles would switch when Frank was drunk or hung over.
+* Frank came into Howard's life in early adolescence. After Howard's father dies, Howard was the man of the house, but Frank took that away from him.
+
+Howard's father rode motorcycles when he met Howard's mother, and it was part of the attraction. As the relationship developed, the mother wanted to domesticate and tame him, and he gave up riding. The father died in a car accident that may have been a suicide.
+
+
+## 2018-06-13 Everyone
+
+Cast additions: Rane Jameson is Howard the Heir.
+Christopher Hagen is Manny the Manager.
+Patrick Heraghty is Frank the step-Father.
+
+What happens to Howard and Penny after the movie ends?
+In a way this "forward-story" is as important as the backstory that we construct for characters.
+
+Action items:
+
+* Victoria and Rane are each writing a couple of paragraphs about where the characters want to be two years after the movie.
+
+## 2018-06-10 Everyone in Dallas
+
+We watched *Once Upon A Time In America* together.
+A couple of things stood out:
+
+* How much of the story is happening in music in pantomime: there are entire 5-minute sequences that drive the story forward without any dialogue at all.
+* The ambiguity over whose story it is: De Niro gets top billing, but it may well be the story of James Woods' Max as told through the eyes of De Niro's Noodles.
+
+## 2018-06-10 Everyone in Dallas
+
+We watched *Once Upon A Time In America* together.
+A couple of things stood out:
+
+* How much of the story is happening in music in pantomime: there are entire 5-minute sequences that drive the story forward without any dialogue at all.
+* The ambiguity over whose story it is: De Niro gets top billing, but it may well be the story of James Woods' Max as told through the eyes of De Niro's Noodles.
+
 ## 2018-05-23 Everyone
 
 Casting Howard remains a priority.
