@@ -1,5 +1,23 @@
 # The Heir Brainstorm
 
+## 2018-06-17 Ari + Rane
+
+Refinement for Howard & Penny storyline:
+
+* Initial attraction: Howard plays victim, Penny plays rescuer.
+* By midpoint, Howard has stepped out of the drama triangle, and the relationship threatens to fall apart.
+* Howard comes up with a different basis for the relationship, one that allows them to be equals.
+* Howard teaches Penny how to ride a motorcycle, using his father's bike from the unit.
+* Howard and Penny ride off into the sunset on a pair of adventure bikes.
+  
+Howard's backstory with Frank:
+
+* Frank had (has?) alcohol issues.
+* Frank used to dominate when sober; the roles would switch when Frank was drunk or hung over.
+* Frank came into Howard's life in early adolescence. After Howard's father dies, Howard was the man of the house, but Frank took that away from him.
+
+Howard's father rode motorcycles when he met Howard's mother, and it was part of the attraction. As the relationship developed, the mother wanted to domesticate and tame him, and he gave up riding. The father died in a car accident that may have been a suicide.
+
 
 ## 2018-06-13 Everyone
 
