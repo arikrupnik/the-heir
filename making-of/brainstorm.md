@@ -1,5 +1,43 @@
 # The Heir Brainstorm
 
+## 2018-06-18 Ari + Rane
+
+Men in the Blank family feel victimized and constrained by the women in their lives.
+Men's life expectancy is also apparently much lower than women's in this family.
+
+Howard's father, James Blank (1965-2000) loved to ride MOTORCYCLES; his wife put an end to that.
+
+Howard's grandfather, William Blank (1944-2003) wanted to write.
+Howard finds his old Selectric TYPEWRITER and 1,200 pages of MANUSCRIPT.
+The typewriter is a gem.
+The novel is garbage.
+But it's also an heirloom.
+It's one of the hardest things to discard, yet one that has only guilt value.
+Ultimately, Howard burns the manuscript and scatters the ashes at the same place where the family had scattered the grandfather's ashes.
+
+Howard's great-grandfather, Joseph Blank (1924-1944) died in WWII.
+Family Legend has him dying at Omaha Beach, but there's some uncertainty about the veracity of this story.
+He got his girlfriend Willabeth (1925-2010) pregnant just before he went off to war.
+Willabeth raised William as a single mother.
+She never married, what with the shortage of men after WWII.
+She had active CORRESPONDENCE with a number of prison inmates over the years, but the relationships always withered when they got out and she met them in real life.
+
+Howard's mother Moira (1966-2018) had fantasies about men rescuing her.
+Real-life men always fell short of that ideal, including James and Howard.
+Howard finds shelves and shelves of Moira's ROMANCE NOVELS.
+The cover models are a tough act to follow.
+
+Standards of beauty are hard to follow.
+So are standards of morality.
+The Blanks all take shortcuts here and there, especially where it hurts no one.
+Howard finds a stack of VHS TAPES with bootleg movies on them.
+"This is how we used to torrent movies back in the day," he tells Penny.
+The only tape that is an official release if Howard the Duck.
+Moira liked HTD so much, she named her son after him.
+There even a LASERDISK of HTD, though the blanks never owned a laserdisk player.
+Moira's friends got a her the disk as a birthday present one year "for wieh they are rich enough to own one."
+
+
 ## 2018-06-17 Ari + Rane
 
 Refinement for Howard & Penny storyline:
