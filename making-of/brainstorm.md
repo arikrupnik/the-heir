@@ -1,5 +1,25 @@
 # The Heir Brainstorm
 
+## 2018-06-19 Ari + Rane
+
+Men in the Blank family seem to follow a pattern of shotgun marriages.
+They carelessly get their girlfriends pregnant and then have to give up their hopes and dreams to support their families.
+James wanted to ride motorcycles cross-country, William wanted to write, etc.
+Howard discovers this pattern--something he's known subconsciously all his life--while digging through the unit.
+He discovers another pattern that he had never reflected on.
+All these men stayed with their families, and some had multiple children with their wives.
+They had opportunities to pursue their dreams even after marriage.
+James could take a week off for a motorcycle trip; he could take one off every year, but never did.
+Is it possible these men actually wanted the lives they had?
+Is it possible they had to trick themselves into pregnancies and marriages?
+Is it possible James liked to complain about his lost freedom, but in reality preferred weekends with his family to the solitude of open road?
+Howard thinks family is an awful thing that dumps responsibility on you, but what if the family is what he wants, like his father before him?
+
+Penny has concerns about commitment and closing off opportunities.
+She worries that settling down would take away her career prospects and social circle.
+The Blank men apparently had the same concerns, and had to maneuver their circumstances to force their hands.
+
+
 ## 2018-06-18 Ari + Rane
 
 Men in the Blank family feel victimized and constrained by the women in their lives.
