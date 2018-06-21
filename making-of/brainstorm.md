@@ -52,10 +52,10 @@ So are standards of morality.
 The Blanks all take shortcuts here and there, especially where it hurts no one.
 Howard finds a stack of VHS TAPES with bootleg movies on them.
 "This is how we used to torrent movies back in the day," he tells Penny.
-The only tape that is an official release if Howard the Duck.
+The only tape that is an official release is Howard the Duck.
 Moira liked HTD so much, she named her son after him.
-There even a LASERDISK of HTD, though the blanks never owned a laserdisk player.
-Moira's friends got a her the disk as a birthday present one year "for wieh they are rich enough to own one."
+There is even a LASERDISC of HTD, though the Blanks never owned a LaserDisc player.
+Moira's friends got a her the disk as a birthday present one year "for when they are rich enough to own one."
 
 
 ## 2018-06-17 Ari + Rane
