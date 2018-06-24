@@ -5,7 +5,7 @@
 *The Heir* is an independent feature film in active development in 2018.
 In addition to what we hope is a compelling story, the project is an experiment in applying collaborative, agile methodologies to film.
 
-You can read about the [story](https://github.com/arikrupnik/the-heir/wiki/Plot-Outline), [characters](https://github.com/arikrupnik/the-heir/wiki/Characters-and-Cast) and [process](https://github.com/arikrupnik/the-heir/wiki/Process) on our Wiki site: <https://github.com/arikrupnik/the-heir/wiki>
+You can read about the [story](https://github.com/arikrupnik/the-heir/wiki/Plot-Outline), [characters](https://github.com/arikrupnik/the-heir/wiki/Characters), [cast](https://github.com/arikrupnik/the-heir/wiki/Cast) and [process](https://github.com/arikrupnik/the-heir/wiki/Process) on our Wiki site: <https://github.com/arikrupnik/the-heir/wiki>
 
 This page describes the technical aspects of contributing to the project.
 
