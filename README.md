@@ -5,7 +5,7 @@
 *The Heir* is an independent feature film in active development in 2018.
 In addition to what we hope is a compelling story, the project is an experiment in applying collaborative, agile methodologies to film.
 
-You can read about the [story](https://github.com/arikrupnik/the-heir/wiki/Plot-Outline), [characters](https://github.com/arikrupnik/the-heir/wiki/Characters-and-Cast) and [process](https://github.com/arikrupnik/the-heir/wiki/Process) on our Wiki site: <https://github.com/arikrupnik/the-heir/wiki>
+You can read about the [story](https://github.com/arikrupnik/the-heir/wiki/Plot-Outline), [characters](https://github.com/arikrupnik/the-heir/wiki/Characters), [cast](https://github.com/arikrupnik/the-heir/wiki/Cast) and [process](https://github.com/arikrupnik/the-heir/wiki/Process) on our Wiki site: <https://github.com/arikrupnik/the-heir/wiki>
 
 This page describes the technical aspects of contributing to the project.
 
@@ -30,11 +30,32 @@ In our experience, it is much easier to install the necessary utilities in Cygwi
    * wget
    * zip
 2. In the new Cygwin shell, run the following commands:
-   * `git clone https://github.com/arikrupnik/the-heir.git`
-   * `git submodule init`
-   * `git submodule update`
    * `pip2 install markdown`
    * `pip2 install weasyprint`
    * `wget https://github.com/jgm/pandoc/releases/download/2.1.3/pandoc-2.1.3-windows.zip`
    * `unzip -j -d /bin pandoc-2.1.3-windows.zip pandoc-2.1.3/pandoc.exe`
-3. If everything succeeded, you now have the source files and all the necessary software on your local drive.
+
+### Installation on MacOS
+
+1. Download and install <https://www.macports.org>. Installation may require installing Apple's XCode or Xcode Command Line Tools. Follow MacPorts instructions for your version of MacOS.
+2. In a terminal, run the following commands:
+   * `port install git gmake aspell aspell-dict-en python27 py27-pip libxml2 libxslt gtk2`
+   * `pip27 install markdown`
+   * `pip27 install weasyprint`
+   * `echo 'export PATH=$PATH:/opt/local/Library/Frameworks/Python.framework/Versions/2.7/bin' >> ~/.profile`
+3. Download and install <https://github.com/jgm/pandoc/releases/download/2.1.3/pandoc-2.1.3-macOS.pkg>
+
+### Installation on Linux
+
+We assume that you already have git and friends on your system. Please note that we use Python 2.7 and Gnu make. You need `ibxml2` and `libxslt`; consult your package manager for specific installation commands. You need two Python libraries: `pip install markdown weasyprint`.
+
+### On all OSs
+
+In a terminal, run the following commands:
+* `git clone https://github.com/arikrupnik/the-heir.git`
+* `cd the-heir`
+* `git submodule init`
+* `git submodule update`
+* `make`
+
+If everything succeded, you'll find `the-heir.pdf` and `the-heir_treatment.pdf` in the current directory.
