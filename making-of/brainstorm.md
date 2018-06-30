@@ -1,5 +1,16 @@
 # The Heir Brainstorm
 
+## 2018-06-27 Everyone
+
+Hannah's musical theme derives from Korobeiniki.
+Hanna is very good at tetrissing her possessions into her storage unit.
+
+## 2018-06-26 Ari + Patrick + Rane
+
+Frank works for a private patrol company that has a controtract with the storage yard.
+His job gives us an excuse to bring him into the yard.
+He is a "toy cop."
+
 ## 2018-06-19 Ari + Rane
 
 Men in the Blank family seem to follow a pattern of shotgun marriages.
