@@ -20,10 +20,10 @@ In our experience, it is much easier to install the necessary utilities in Cygwi
 1. Download and install <https://www.cygwin.com/>. During installation, select the following optional packages:
    * git
    * make
-   * aspell
-   * aspell-en
    * python2
    * python2-pip
+   * aspell
+   * aspell-en
    * libxml2
    * libxslt
    * libgtk2.0-devel
@@ -39,7 +39,7 @@ In our experience, it is much easier to install the necessary utilities in Cygwi
 
 1. Download and install <https://www.macports.org>. Installation may require installing Apple's XCode or Xcode Command Line Tools. Follow MacPorts instructions for your version of MacOS.
 2. In a terminal, run the following commands:
-   * `port install git gmake aspell aspell-dict-en python27 py27-pip libxml2 libxslt gtk2`
+   * `port install git gmake aspell python27 py27-pip aspell-dict-en libxml2 libxslt gtk2`
    * `pip27 install markdown`
    * `pip27 install weasyprint`
    * `echo 'export PATH=$PATH:/opt/local/Library/Frameworks/Python.framework/Versions/2.7/bin' >> ~/.profile`
@@ -47,7 +47,7 @@ In our experience, it is much easier to install the necessary utilities in Cygwi
 
 ### Installation on Linux
 
-We assume that you already have git and friends on your system. Please note that we use Python 2.7 and Gnu make. You need `ibxml2` and `libxslt`; consult your package manager for specific installation commands. You need two Python libraries: `pip install markdown weasyprint`.
+We assume that you already have git and friends on your system. Please note that we use Python 2.7 and Gnu make. You need `aspell`, `ibxml2-utils`, `xsltproc` and `pandoc`; consult your package manager for specific installation commands. You need two Python libraries: `pip install markdown weasyprint`.
 
 ### On all OSs
 
