@@ -1,5 +1,10 @@
 # The Heir Brainstorm
 
+## 2018-07-02 Ari
+
+Thinking of renaming the biker character to Cindy the Custodian.
+She stores broken motorcycles and broken relationship as if in a museum of her former self.
+
 ## 2018-06-27 Everyone
 
 Hannah's musical theme derives from Korobeiniki.

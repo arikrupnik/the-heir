@@ -1,8 +1,9 @@
 **Frank** the step-father, 59: Howard's father figure.
-Has severe boundary issues.
 Peaked as a college quarterback who never went pro.
-Nothing happened in his life since, and is unlikely to happen ever again.
-Frank is willing to accept only happy baggage and ignores the disappointments.
-To fill his entire life with the little happy baggage he has, Frank exaggerates it.
-One of his worries is that Howard might find evidence of this exaggeration in his storage unit.
+Works for a private security patrol company as a "toy cop."
+Speaks for the family's way of doing things.
+Men in Howard's family feel that family robbed them of their freedom and potential.
+Each had a dream--writing a great American novel, riding cross-country on a motorcycle, joining the NYPD.
+Each had to sacrifice the dream to raise a family.
+Frank is here to caution Howard against repeating this mistake.
 

@@ -11,8 +11,8 @@ include $(FOUNTAINHEADDIR)/fountainhead.mk
 VPATH = characters
 
 CHARACTER_STUDIES = howard.md penny.md frank.md \
-	ben.md anna.md dwight.md hannah.md beverly.md \
-	manny.md
+	ben.md anna.md dwight.md hannah.md cindy.md \
+	manny.md kate.md
 
 character-studies.md: $(CHARACTER_STUDIES)
 	cat $+ | $(ASPELL) list -p $(DICT_FILE) | $(GREP) -nwFf - --color=auto $+; \

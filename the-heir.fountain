@@ -1,5 +1,5 @@
 Title: The Heir
-Logline: Inheriting a storage unit full of family heirlooms forces an estranged son to confront his place in the family.
+Logline: He's running from responsibility. She's saving the world. They have thirty days to deal with what their families left in store for them.
 Project Home: https://github.com/arikrupnik/the-heir
 Copyright: (C) 2018 Iterative Features
 License: GPL-3.0
@@ -8,91 +8,121 @@ License: GPL-3.0
 = HOWARD BLANK, 28, opens the roll-up door to his father's old storage unit and surveys his inheritance with disdain.
 
 # Act I: Pose the Question
+
 = First thing Howard finds is one of his old toys. He gives it away to another tenant's child.
 =<scenes/cat.fountain
 = Howard's next-unit neighbor PENNY, 25, sees the exchange and finds Howard's gesture adorable.
 = Howard and Penny develop a friendly conversation.
-= Howard is here to sort through whatever issues his family stuffed into his unit.
-= Penny is storing her grandmother's old baby grand piano.
-/*= Storage yard manager MANNY, 31, barges in on their moment, insisting that _he_ introduce Howard to Penny and other tenants.*/
+= Howard is here to sort through whatever issues his family has been stuffing into the unit for the last thirty years.
+= Penny is here to rescue her mother's baby grand piano from late rent fees.
+= Howard and Penny run into some of the other tenants, each with a unit full of baggage and an unhelpful way of dealing with it:
+= ANNA the Amnesiac, HANNAH the Hoarder, DWIGHT the Deadbeat, BEN the Buyer, CINDY the Custodian.
 
 ##
-= Howard's step-father FRANK, 59, arrives to collect what he claims is his property from the unit.
-= When Howard tries to protest, Frank berates Howard's immaturity. He won't listen to anyone wearing skinny jeans and a beanie hat.
-[[show clothes evolution in Act III]]
-=<scenes/frank.fountain#meet-frank
-= Frank forces his way into Howard's unit, but can't find what he's looking for.
-= Howard doesn't know if any of Frank's stuff is in his unit.
-= Howard doesn't know if any of his own stuff is in his unit.
-= Howard is afraid to know what's in his unit.
+= Howard's step-father FRANK, 59, drives by with unsolicited advice.
+= Frank urges Howard to avoid repeating Frank's mistakes.
+= If Howard settles down with Kate--Frank says--she will weigh him down and stop him from pursuing his dreams.
+= Penny backs out--she thought Howard was single.
+= Howard explains that if Frank knew anything about him, he'd know that he and ex-girlfriend broke up.
+= Howard complains that his family always dumps problems on him, like this storage unit and Frank's disappointment with his own life.
 
 ##
-= For three generations, Howard's family stuffed anything they didn't want to deal with into the unit.
-= Now it falls to Howard to clean up the mess and piece together his identity.
-= Howard asks the central question: if he throws away his (family's) baggage, who will he be?
-= And if he keeps it, will it crush him?
+= Howard and Penny bond over their frustration with their families.
+= The items in their storage units represent baggage which their families refuse to deal with.
+= The whole storage yard is a kind of purgatory for things: the objects in storage are undead.
+= If they died fully, they'd get a proper burial at a landfill.
+= If they returned to life, they'd go back to their owners' homes and be useful again.
+= As it is, they are in a kind of limbo, and the tenants who store their undead possessions are in that limbo with them.
+= Howard and Penny ask the central question: how can they escape from this purgatory?
+
 
 # Plot Point
 = Storage yard manager MANNY, 65, announces pending closure and demolition of the yard.
 = Tenants have thirty days to vacate.
 = Howard must decide what he does with his inheritance.
+= Penny needs to find new accommodations for her mother's piano.
 
 # Act IIa: Fun and Games
-= Some of the stuff in the unit is pure garbage, like an old BBQ grill.
+
+= Some of the stuff in Howard's unit is pure garbage, like an old BBQ grill.
 = But it's not all bad.
-= Howard finds his parents' toys, old cameras, vinyl records, an 8mm projector--it's a hipster's paradise.
-= BEN the buyer wants to buy some of Howard's antiques.
-= Penny volunteers to accompany a silent 8mm film Howard shows.
-= Manny wants to listen to Howard's vinyl.
+= Howard finds his parents' toys, old cameras, vinyl records, reels of 8mm film.
+= Hannah helpfully has an 8mm projector in her unit--50 years of storing it finally pay off.
+= Howard finds his father's motorcycle--the father had dreams of riding it cross-country but gave that up when he got Howard's mother pregnant.
+= Penny makes increasingly creative attempts to move the piano: it won't fit in the trunk of her compact car; it won't fit on the roof rack, etc.
+= Ben makes enticing offers for Penny's piano and the contents of Howard's unit.
+= Howard's ex-girlfriend keeps calling him, crating comedic situations between Howard and Penny.
+= Howard tells Penny he is over the ex-girlfriend and her needy nagging.
 
 ##
-= Howard's friendship with Penny grows, they play old video games together and model old-fashioned clothes for each other.
-= It comes out that the piano represents more than an instrument or an heirloom to Penny. Through the piano, she hopes to recreate her late grandmother's fabulous lifestyle.
-
-##
-= Howard finds awards and citations, certificates of achievement.
-= Howard finds role models, sources of pride and identity in these artifacts.
+= Howard finds his grandfather's Selectric typewriter. Grandpa wanted to be a novelist but had to give that up when he got grandma pregnant.
+= As Howard digs through the unit, he finds objects belonging to different members of his extended family.
 = Howard finds it difficult to keep track of all the different family members.
 = He starts plotting his family tree using magnets on the metal wall of his storage unit.
 = All those cousins and aunts he'd heard of but could never remember suddenly fall into a sensible family structure.
+= As she observes Howard separate his baggage from other people's, she starts separating her mother's dreams about the piano from her own disinterest.
+= Penny's mother wants to recapture the glamour of *her* mother's dinner parties, and the piano is her last connection to that world.
+= Penny has no interest in her grandmother's world, and in any case doesn't think she can recapture it in the present.
+= Penny comes to realize that rescuing her mother (and the mother's piano) is only enabling a co-dependent relationship.
+
+##
+= Howard cleans up his father's bike--it's in pretty good shape after all these years.
+= He gives Penny a ride on the back of his bike and she's hooked.
+= Howard teaches Penny how to ride the motorcycle herself.
+= Penny practices riding around the yard.
+= Her confidence and independence grow as she masters the machine.
+= Howard proposes going on the cross-country trip his father never took, but with Penny as a partner.
+= Cindy is storing a number of project motorcycles--maybe Penny can breathe new life into one of them?
+= Maybe she and Howard can ride side by side as equals.
+= Howard and Penny talk about leaving their troubles behind, and letting their families deal with their own baggage, like Dwight has done.
+= Or burning and forgetting their problems entirely, like Anna.
 
 # Midpoint
 = Howard and Penny cuddle aggressively in her unit (we see this from Howard's unit).
-= As the shared wall thud-thuds, an anatomical skeleton spills out of a cabinet in Howard's unit.
+= As the shared wall thud-thuds, a plastic, anatomical skeleton spills out of a cabinet in Howard's unit.
+= Under the mess of broken pieces, Howard's phone vibrates with a text message from his ex-girlfriend Kate: she's pregnant.
 
 # Act IIb: Stuff Gets Real
-= Howard keeps digging through the storage unit.
-= Frank shows up and undoes Howard's progress by stuffing more junk in the space Howard has cleared.
-=<scenes/frank.fountain#frank-tempts
-= In his frustration, Howard wants to burn the entire contents of his unit.
-= Manny introduces him to ANNA the Amnesiac who did just that--and now she doesn't know who she is.
-= Howard meets other tenants who can't handle their baggage.
-= DWIGHT the Defaulter abandons his unit for the landlord to deal with.
-= HARRY the Hoarder keeps every single thing.
-= Penny comes to question her clinging to her grandmother's 1950s dream.
-= Howard is horrified about where he may end up.
+
+= Howard tells Kate he's not going back to her. He isn't predestined to repeat his father's and grandfather's fates. He'll pay for Kate to have an abortion, but is unwilling to raise the child if Kate decides to keep it.
+
+= Howard returns Hanna's projector to find that she stores 5 of them--along with empty tin cans, stacks of old newspapers and the ashes of her mother, father, grandfather and sister. She can't let go of anything.
+= Ben's unit is overflowing with junk he buys from other people, and he buries his own issues under this junk.
+= Dwight lost everything he had; Manny is about the auction off the contents of his unit to recover back rent.
+= Anna doesn't even have anything in her unit. She'd burnt it all, and now she doesn't know who she is or what for she is paying rent on an empty unit.
 
 ##
-= The good news is that Howard is no longer dealing with his crisis alone.
-= Penny is there to support him.
-= She helps Howard see that the happy and the unhappy memories are his equally.
-= Howard finds that he can draw wisdom from unseemly episodes in family history.
-= They, too, are part of what makes him him, and he can learn from failure as much as from success.
-= Howard now has the strength and the allies to deal with the harder stuff.
+= Penny calls her mother to tell her she isn't willing to deal with the piano. If the mother wants to find a new home for it, she has to do it herself.
+= Howard keeps talking about the wonderful trip they will take together, the experiences they will share, but Penny seems less enthusiastic. Are they going on their trip or is she tagging along on his trip?
+= Penny discovers that each motorcycle in Cindy's unit belongs to a different ex-boyfriend, and the bikes are as dead as the relationships.
+= The cross-country ride seems less and less real. There is no motorcycle for Penny and Howard has unresolved ex-girlfriend issues. More importantly, will Penny simply exchange one master--her mother--for another?
+= Penny wants to be her own person, not beholden to another man's dream.
 
 ##
+= Penny continues to ride the motorcycle around the yard and gets very good at it.
+= Her skill surpasses Howard's--he has taught her all he knew, and she's enjoying her accomplishment.
+= Howard spends most of his time working through his unit.
 = Howard sets aside a box for objects he wants to keep.
 = He gets a dumpster for the things he wants to discard, a scanning service to digitize photos, a box that's going to Goodwill, etc.
-= Some of the objects belong to other family members.
 = Now that he understands his family tree, Howard can reach out to his relatives to reunite them with their possessions.
 = Howard finds Frank's old trophies--smaller and fewer than Frank described them--and invites Frank to pick them up.
-[[add phone conversation in IIa where Frank describes mountains of trophies supposedly in the unit]]
+/* add phone conversation in IIa where Frank describes mountains of trophies supposedly in the unit */
 = Howard invites everyone to come "over the long weekend."
+= Howard spends a lot of time on the phone with his cousins. Penny feels left out.
+
+##
+= Howard asks for help receiving his guests. Penny backs out. She complains that Howard is taking her for granted.
+= Penny doesn't want Howard to introduce her to his family as anything more than a friend.
+= Learning to ride the motorcycle was fun and all, but Howard doesn't own her.
+= Now that she isn't dealing with her mother's piano, Penny doesn't really need to be at the storage yard at all.
+= Howard surprises Penny by giving her his dad's motorcycle. He is looking forward to getting to know his cousins in real life.
+= Howard reflects on his father's dream. If his father wanted to take that trip, he had plenty of opportunities even after Howard's birth.
+= His complaining aside, maybe the father wanted to raise a family more than he wanted the trip. Maybe the grandfather wanted to raise a family more than he wanted to write.
+= For Howard, the way to escape the purgatory is by connecting with his family. For Penny, it is by embracing the open road.
 
 # Plot Point
-= Howard has sorted the content of his unit into separate bins.
-= He is ready to disburse, dispose and disentangle.
-/* disband discard disambiguate discount discover discuss disinfect dismantle dispense disperse distill distribute */
+= Penny rides away on the motorcycle. The moment is bittersweet. It's the right thing for her, yet her departure leaves a void in Howard.
+= Howard picks up his phone and invites another guest to his gathering. It's unclear if the guest accepts.
 
 # Act III: Resolution
 
@@ -104,7 +134,7 @@ License: GPL-3.0
 = There are flags and streamers.
 = Without planning it, Howard has created for himself the family he always wanted.
 = Some of these people are nicer than others, but they are all his people.
-= A Goodwill truck pulls in to pick up Penny's piano. She is letting go of her grandmother's dream to make room for her own.
+= And yet the celebration is incomplete for Howard; the freedom brings him no joy.
 
 ##
 = Frank shows up, apprehensive of the invitation.
@@ -112,18 +142,19 @@ License: GPL-3.0
 = Frank braces for a confrontation.
 = The bigger man now, Howard gives Frank his trophies in a large, opaque container--only they two know how empty it is.
 = Frank knows the game is up--he's never getting another rise out of Howard. In fact, this may be their last encounter.
+= Howard is on his knees showing a child how to use one of his vintage toys when he sees a pair of legs standing over him.
+= Kate is here, and suddenly everything is right in the world.
+= The right people are together, ready to embark on the greatest adventure of their lives.
 
 ##
-= Howard and Penny are the king and queen of their clan.
-= A pregnant couple asks if they would be godparents to their baby.
-/* the other tenants are there, too */
-= Howard and Penny reflect on how Howard's baggage didn't crush him at all.
+= Howard and Kate are the king and queen of their clan.
+= Howard reflects on how his baggage didn't crush him at all.
 = Instead, working through it brought Howard the experience that he wanted.
 = As night falls, fireworks go off everywhere.
 = It's Fourth of July, and the Blank family has much to celebrate.
 
 
 # Close
-= The following morning, Howard surveys his empty storage unit with satisfaction, rolls down the door, gets in the car (Penny is waiting in the passenger seat) and drives away with the few heirlooms he decided to keep visible through the tailgate.
+= The following morning, Howard surveys his empty storage unit with satisfaction, rolls down the door, gets in the car (Kate is waiting in the passenger seat) and drives away with the few heirlooms he decided to keep visible through the tailgate.
 =<scenes/close.fountain
 
