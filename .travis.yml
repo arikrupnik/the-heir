@@ -4,6 +4,6 @@ before_install:
   - sudo apt-get update
   - sudo apt-get install -y build-essential python-setuptools python-wheel libcairo2 libpango-1.0-0 libpangocairo-1.0-0 libgdk-pixbuf2.0-0 libffi-dev shared-mime-info
   - sudo apt-get install -y aspell libxml2-utils xsltproc pandoc 
-  - sudo pip install cffi markdown weasyprint
+  - sudo pip install cffi cairocffi markdown weasyprint
   - apt list --installed | grep pango
   - apt list --installed | grep cairo
