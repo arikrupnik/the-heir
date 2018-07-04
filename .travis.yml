@@ -1,5 +1,6 @@
 language: c
 script: make
 before_install:
-  - sudo apt-get install -y xsltproc libxml2 pandoc
+  - python --version
+  - sudo apt-get install -y xsltproc libxml2-utils pandoc
   - sudo pip2 install markdown weasyprint
