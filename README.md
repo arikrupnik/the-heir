@@ -1,6 +1,6 @@
 # The Heir
 
-## Inheriting a storage unit full of family heirlooms forces an estranged son to confront his place in the family.
+## He's running from responsibility. She's saving the world. They have thirty days to deal with what their families left in store for them
 
 *The Heir* is an independent feature film in active development in 2018.
 In addition to what we hope is a compelling story, the project is an experiment in applying collaborative, agile methodologies to film.
