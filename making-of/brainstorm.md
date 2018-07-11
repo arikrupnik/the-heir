@@ -1,5 +1,13 @@
 # The Heir Brainstorm
 
+## 2018-06-27 Ari + Rane + Victoria
+
+Fullfillment of action request. My recollection of Rane's thoughts on Howard's clothing progression:
+At the start of the film Howard is dressed in dark clothing he is closed off, in hiding and insists that this is not where he wants to be. 
+At the next stage of the story his color scheme lightens as he discovers himself and who he wants to be.
+Going to the picnic he dons a short sleeve button down of his father's or grandfather's and the "traditional" khakis as a symbol of accepting responsibility and moving forward with his life.
+In the final scene, Howard returs to his lighter colored clothes that are his style. He is not continuing in the same way his forefathers have. He is a fuller version of himself, accepts and welcomes the future he has elected for himself.
+
 ## 2018-07-02 Ari
 
 Thinking of renaming the biker character to Cindy the Custodian.
