@@ -28,7 +28,7 @@ In our experience, it is much easier to install the necessary utilities in Cygwi
    * libxslt
    * libgtk2.0-devel
    * wget
-   * zip
+   * unzip
 2. In the new Cygwin shell, run the following commands:
    * `pip2 install markdown`
    * `pip2 install weasyprint`
