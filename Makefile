@@ -1,5 +1,5 @@
-PDFs = the-heir.pdf the-heir_treatment.pdf
-pdf: $(PDFs)
+PDFs = the-heir.pdf the-heir-bd.pdf the-heir_treatment.pdf
+all: $(PDFs) the-heir_beats.html
 
 WIKI_PATH = ../the-heir.wiki
 WIKIs = $(WIKI_PATH)/Plot-Outline.md $(WIKI_PATH)/Characters.md
@@ -31,6 +31,10 @@ $(WIKI_PATH)/Plot-Outline.md: the-heir.plot-summary
 	cp $< $@
 $(WIKI_PATH)/Characters.md: character-studies.md
 	cp $< $@
+
+# once this functionality is more stable, this line wants to move to fountainhead.mk
+the-heir_beats.html : the-heir.ftx
+	python $(FOUNTAINHEADDIR)/breakdown.py < $< | $(XSLTPROC) -o $@ $(FOUNTAINHEADDIR)/beats.xslt -
 
 clean:
 	rm -f *pdf *.ftx* *.d *.html *.plot-summary *.head the-heir_treatment.md character-studies.md
