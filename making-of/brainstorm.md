@@ -8,9 +8,21 @@ Scene idea... After Penny and Howards initial "fight" when he leaves the drama-t
 
 Penny wardrobe concept...so far.
 
-The two primary progressions for Penny are in color and style. Penny's style in towards the beginning of the story may look hipster, however that is only because she is wearing her mother's hand-me-downs from the 80's-90's. As she progresses we will see her transition this changes when she starts to don her motorcycle gear. She is gearing up for her own life, discovering what it is and what it looks like, not out of fear, but out of preparedness. 
+The two primary progressions for Penny are in color and style. 
+
+Even Penny's clothes are a reflection of someone else's life. Penny's style in towards the beginning of the story may look hipster, however that is only because she is wearing her mother's hand-me-downs from the 80's-90's. Her clothes are yet another example of how her life is centered around her mother. As she progresses we will see her transition this changes when she starts to don her motorcycle gear. She is gearing up for her own life, discovering what it is and what it looks like, not out of fear, but out of preparedness. 
 
 Then comes color. Since Penny is a rescuer, at the start she is bright in primary colors. Her suit and cape, so to speak. When she decides to "hang up her cape," her colors become more neutral and calm (rooted, grounded). 
+
+## 2018-07-05 Victoria 
+
+Motorcycle reflection.
+
+The practice of creating new neurological pathways is a counterintuitive experience. It requires many deliberate repititions (creating a new habit). This makes me think of what may be Penny learning to let go. How do we see Howard and Panny fight against their old habits as they slip back towards them.
+
+Developing the sequence of physical action for "simply" changing gears: release throttle, pull in the clutch, gear shift, etc. depending on desired action.
+
+Gentley engaging the brake when your instinct may be to just grab it. When do we do this in life? When we slip up on the quality of the action rather than the intention. The outcome of using the wrong quality applied to the desired action can be really dangerous. How does this apply to Penny's journey? What can she learn from this?
 
 ## 2018-07-02 Ari
 
@@ -56,6 +68,10 @@ Penny witnesses Anna setting her stuff on fire and Penny makes the realization t
 (Act 4)
 
 Anna Flirts with demolition workers.
+
+## 2018-06-27 Ari + Rane + Victoria + Cordelia
+
+
 
 ## 2018-06-27 Ari + Rane + Victoria
 
