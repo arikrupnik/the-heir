@@ -10,33 +10,6 @@ She stores broken motorcycles and broken relationship as if in a museum of her f
 Hannah's musical theme derives from Korobeiniki.
 Hanna is very good at tetrissing her possessions into her storage unit.
 
-## 2018-06-27 Ari + Rane + Mary Lou + Victoria
-
-Note: Supporting characters are examples of outcomes that the protagonists can choose.
-
-As Anna attempts to interact with Howard and/or Penny her train of thought jumps from one topic to the next. Interactions are primarily with Howard and full of innuendo. This gives Penny the opportunity to once again rescue Howard. 
-
-Dialogue notes:
-
-(Act 1 Anna and Howard meet)
-
-Anna: Can you just stick it in there? (the key...)
-Anna: Is it safe? Are you going to protect me?
-
-Anna reaches three types of innapropriate action and then Penny steps in: 1) Suggestive comment(s) 2) Overshare about Poppi 3) Physical Harrasment 
-
-Penny: Ooookay! You probably don't remember me. We are going to go get Manny to help find your unit. 
-Grabs Howards and sweeps off to Manny's office. She has "saved two birds with one stone."
-
-(Act 2) 
-Anna: (to Howard) Your unit or mine...? 
-
-(Act 3: Shit gets real)
-Penny witnesses Anna setting her stuff on fire and Penny makes the realization that she has not saved Anna, or anyone else for that matter, from anything.
-
-(Act 4)
-Anna Flirts with demolition workers.
-
 ## 2018-06-26 Ari + Patrick + Rane
 
 Frank works for a private patrol company that has a controtract with the storage yard.
