@@ -2,7 +2,9 @@
 
 ## 2018-07-24 Victoria
 
-Scene idea... After Penny and Howards initial "fight" when he leaves the drama-triangle and finds basis for their new relationship. Visually it may be fun for them to find a section of his unit that is all Holliday decorations. The unit becomes a cacophony of decorations from Christmas lights to Jack-o-lanterns and St. Patricks day clovers...etc. Possible scene for when Howard realizes he really does want a family to go through the seasons with. 
+Scene idea... After Penny and Howards initial "fight" when he leaves the drama-triangle and finds basis for their new relationship. Visually it may be fun for them to find a section of his unit that is all Holiday decorations. The unit becomes a cacophony of decorations from Christmas lights to Jack-o-lanterns and St. Patricks day clovers...etc. Possible scene for when Howard realizes he really does want a family to go through the seasons with. 
+
+Everyone has some kind of relationship to the hollidays whether their family made a big deal about them or not, whether they were a source of joy/frustration. A window to imagine into the future. How do these characters project out?
 
 ## 2018-07-24 Victoria
 
