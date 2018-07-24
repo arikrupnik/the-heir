@@ -1,5 +1,13 @@
 # The Heir Brainstorm
 
+## 2018-07-24
+
+Penny wardrobe concept...so far.
+
+The two primary progressions for Penny are in color and style. Penny's style in towards the beginning of the story may look hipster, however that is only because she is wearing her mother's hand-me-downs from the 80's-90's. As she progresses we will see her transition this changes when she starts to don her motorcycle gear. She is gearing up for her own life, discovering what it is and what it looks like, not out of fear, but out of preparedness. 
+
+Then comes color. Since Penny is a rescuer, at the start she is bright in primary colors. Her suit and cape, so to speak. When she decides to "hang up her cape," her colors become more neutral and calm (rooted, grounded). 
+
 ## 2018-07-02 Ari
 
 Thinking of renaming the biker character to Cindy the Custodian.
