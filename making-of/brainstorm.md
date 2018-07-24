@@ -2,6 +2,10 @@
 
 ## 2018-07-24
 
+Scene idea...(Question: Have the beats been posted yet..if so where are they...?) That aside. After Penny and Howards initial "fight" when he leaves the drama-triangle and finds basis for their new relationship. Visually it may be fun for them to find a section of his unit that is all Holliday decorations. The unit becomes a cacophony of decorations from Christmas lights to Jack-o-lanterns and St. Patricks day clovers...etc. Possible scene for when Howard realizes he really does want a family to go through the seasons with. 
+
+## 2018-07-24
+
 Penny wardrobe concept...so far.
 
 The two primary progressions for Penny are in color and style. Penny's style in towards the beginning of the story may look hipster, however that is only because she is wearing her mother's hand-me-downs from the 80's-90's. As she progresses we will see her transition this changes when she starts to don her motorcycle gear. She is gearing up for her own life, discovering what it is and what it looks like, not out of fear, but out of preparedness. 
