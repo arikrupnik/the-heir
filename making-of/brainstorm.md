@@ -17,6 +17,46 @@ Then comes color. Since Penny is a rescuer, at the start she is bright in primar
 Thinking of renaming the biker character to Cindy the Custodian.
 She stores broken motorcycles and broken relationship as if in a museum of her former self.
 
+## 2018-06-27 Ari + Rane + Mary Lou + Victoria
+
+Note: Supporting characters are examples of outcomes that the protagonists can choose.
+
+As Anna attempts to interact with Howard and/or Penny her train of thought jumps from one topic to the next. Interactions are primarily with Howard and full of innuendo. This gives Penny the opportunity to once again rescue Howard. 
+
+Dialogue notes:
+
+(Act 1 Anna and Howard meet)
+
+ANNA
+
+Can you just stick it in there? (the key...)
+
+ANNA
+
+Is it safe? Are you going to protect me?
+
+Anna reaches three types of innapropriate action and then Penny steps in: 1) Suggestive comment(s) 2) Overshare about Poppi 3) Physical Harrasment 
+
+PENNY
+
+Ooookay! You probably don't remember me. We are going to go get Manny to help find your unit. 
+
+Grabs Howards and sweeps off to Manny's office. She has "saved two birds with one stone."
+
+(Act 2) 
+
+ANNA
+
+(to Howard) Your unit or mine...? 
+
+(Act 3: Shit gets real)
+
+Penny witnesses Anna setting her stuff on fire and Penny makes the realization that she has not saved Anna, or anyone else for that matter, from anything.
+
+(Act 4)
+
+Anna Flirts with demolition workers.
+
 ## 2018-06-27 Ari + Rane + Victoria
 
 Fullfillment of action request. My recollection of Rane's thoughts on Howard's clothing progression:
