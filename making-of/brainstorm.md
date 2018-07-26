@@ -1,9 +1,90 @@
 # The Heir Brainstorm
 
+## 2018-07-24 Victoria
+
+Scene idea... After Penny and Howards initial "fight" when he leaves the drama-triangle and finds basis for their new relationship. Visually it may be fun for them to find a section of his unit that is all Holiday decorations. The unit becomes a cacophony of decorations from Christmas lights to Jack-o-lanterns and St. Patricks day clovers...etc. Possible scene for when Howard realizes he really does want a family to go through the seasons with. 
+
+Everyone has some kind of relationship to the holidays whether their family made a big deal about them or not, whether they were a source of joy/frustration. A window to imagine into the future. How do these characters project out?
+
+## 2018-07-24 Victoria
+
+Penny wardrobe concept...so far.
+
+The two primary progressions for Penny are in color and style. 
+
+Even Penny's clothes are a reflection of someone else's life. Penny's style in the beginning of the story may look hipster, however that is only because she is wearing her mother's hand-me-downs from the 80's-90's. Her clothes are yet another example of how her life is centered around her mother. As she progresses we will see her transition this changes when she starts to don her motorcycle gear. She is gearing up for her own life, discovering what it is and what it looks like, not out of fear, but out of preparedness. 
+
+Then comes color. Since Penny is a rescuer, at the start she is bright in primary colors. Her suit and cape, so to speak. When she decides to "hang up her cape," her colors become more neutral and calm (rooted, grounded). 
+
+## 2018-07-05 Victoria 
+
+Motorcycle reflection.
+
+The practice of creating new neurological pathways is a counterintuitive experience. It requires many deliberate repititions (creating a new habit). This makes me think of what may be Penny learning to let go. How do we see Howard and Panny fight against their old habits as they slip back towards them.
+
+Developing the sequence of physical action for "simply" changing gears: release throttle, pull in the clutch, gear shift, etc. depending on desired action.
+
+Gentley engaging the brake when your instinct may be to just grab it. When do we do this in life? When we slip up on the quality of the action rather than the intention. The outcome of using the wrong quality applied to the desired action can be really dangerous. How does this apply to Penny's journey? What can she learn from this?
+
 ## 2018-07-02 Ari
 
 Thinking of renaming the biker character to Cindy the Custodian.
 She stores broken motorcycles and broken relationship as if in a museum of her former self.
+
+## 2018-06-27 Ari + Rane + Mary Lou + Victoria
+
+Note: Supporting characters are examples of outcomes that the protagonists can choose.
+
+As Anna attempts to interact with Howard and/or Penny her train of thought jumps from one topic to the next. Interactions are primarily with Howard and full of innuendo. This gives Penny the opportunity to once again rescue Howard. 
+
+Dialogue notes:
+
+(Act 1 Anna and Howard meet)
+
+ANNA
+
+Can you just stick it in there? (the key...)
+
+ANNA
+
+Is it safe? Are you going to protect me?
+
+Anna reaches three types of innapropriate action and then Penny steps in: 1) Suggestive comment(s) 2) Overshare about Poppi 3) Physical Harrasment 
+
+PENNY
+
+Ooookay! You probably don't remember me. We are going to go get Manny to help find your unit. 
+
+Grabs Howards and sweeps off to Manny's office. She has "saved two birds with one stone."
+
+(Act 2) 
+
+ANNA
+
+(to Howard) Your unit or mine...? 
+
+(Act 3: Shit gets real)
+
+Penny witnesses Anna setting her stuff on fire and Penny makes the realization that she has not saved Anna, or anyone else for that matter, from anything.
+
+(Act 4)
+
+Anna Flirts with demolition workers.
+
+## 2018-06-27 Ari + Rane + Victoria + Cordelia
+
+
+
+## 2018-06-27 Ari + Rane + Victoria
+
+Fullfillment of action request. My recollection of Rane's thoughts on Howard's clothing progression:
+
+At the start of the film Howard is dressed in dark clothing he is closed off, in hiding and insists that this is not where he wants to be. 
+
+At the next stage of the story his color scheme lightens as he discovers himself and who he wants to be.
+Going to the picnic he dons a short sleeve button down of his father's or grandfather's and the "traditional" khakis as a symbol of accepting responsibility and moving forward with his life.
+
+In the final scene, Howard returs to his lighter colored clothes that are his style. He is not continuing in the same way his forefathers have. He is a fuller version of himself, accepts and welcomes the future he has elected for himself.
 
 ## 2018-06-27 Everyone
 
